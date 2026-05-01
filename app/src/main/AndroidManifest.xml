@@ -4,9 +4,7 @@
     <application
         android:allowBackup="true"
         android:label="Othello AI"
-        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher_round">
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true"
